@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning react and javascript.
 - 📫 How to reach me: Instagram: @Only_Survive12; Linkedin: Igor Procópio.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorProcopio12&hide=stars&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorProcopio12&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
