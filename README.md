@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at @Nvoip as an intership.
 - 🌱 I’m currently learning react and javascript.
-- 📫 How to reach me: Instagram: @Only_Survive12; Linkedin: Igor Procópio.
+- 📫 How to reach me: Instagram: @Only_Survive12; Linkedin: Igor Procópio..
 
 -->
