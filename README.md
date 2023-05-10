@@ -1,7 +1,7 @@
 ### Hi, I'm Igor!
 
 - 🔭 I’m currently working at as a FullStack .NET | React Developer.
-- 🌱 I’m currently learning react and javascript.
+- 🌱 I’m currently learning Flutter.
 - 📫 How to reach me: Instagram: @Only_Survive12; Linkedin: Igor Procópio.
 
 <a href="https://github.com/IgorProcopio12/github-readme-stats">
